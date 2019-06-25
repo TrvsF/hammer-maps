@@ -1,0 +1,23 @@
+//Map Overview for Counter-Strike Global Offensive 
+"cs_isacc"
+{
+				"material"		"overviews/cs_isacc_radar" 
+
+				"pos_x"			"1800" 
+				"pos_y"			"-2139" 
+				"scale"			"4" 
+				"rotate"			"0" 
+				"zoom"			"1.3" 
+
+
+// Icon Positions
+				"CTSpawn_x"		"0.71"
+				"CTSpawn_y"		"0.92"
+				"TSpawn_x"		"0.45"
+				"TSpawn_y"		"0.14"
+
+
+				"Hostage1_x"			"0.36"
+				"Hostage1_y"			"0.36"
+
+}
